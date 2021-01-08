@@ -140,16 +140,16 @@
 
 >>>WORKS_ON (SSN, PNo, Hours)
 
-*Querry*
+*Query*
 
-a)	Make a list of all project numbers for projects that involve an employee whose last name is ‘Scott’, either as a worker or as a manager of the department that controls the project.
+>a)	Make a list of all project numbers for projects that involve an employee whose last name is ‘Scott’, either as a worker or as a manager of the department that controls the project.
 
-b)	Show the resulting salaries if every employee working on the ‘IoT’ project is given a 10 percent raise.
+>b)	Show the resulting salaries if every employee working on the ‘IoT’ project is given a 10 percent raise.
 
-c)	Find the sum of the salaries of all employees of the ‘Accounts’ department, as well as the maximum salary, the minimum salary, and the average salary in this department
+>c)	Find the sum of the salaries of all employees of the ‘Accounts’ department, as well as the maximum salary, the minimum salary, and the average salary in this department
 
-d)	Retrieve the name of each employee who works on all the projects controlled by department number 5 (use NOT EXISTS operator). 
+>d)	Retrieve the name of each employee who works on all the projects controlled by department number 5 (use NOT EXISTS operator). 
 
-e)	For each department that has more than five employees, retrieve the department number and the number of its employees who are making more than Rs. 6,00,000.
+>e)	For each department that has more than five employees, retrieve the department number and the number of its employees who are making more than Rs. 6,00,000.
 
 
